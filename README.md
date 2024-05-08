@@ -1,8 +1,4 @@
 
-![Screenshot 2024-05-08 233313](https://github.com/AnnBlessy/menuinandroid/assets/119477835/4a69cc1e-7e54-428c-9d24-a4b4a048d284)
-
-![image](https://github.com/AnnBlessy/menuinandroid/assets/119477835/5a11f351-75da-4546-94a3-03d836395cc8)
-
 # Ex.No:10  To create a option menu to display menu items.
 
 
